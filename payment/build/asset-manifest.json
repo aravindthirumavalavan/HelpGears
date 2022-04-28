@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Help-Gears/static/css/main.c81fff8a.chunk.css",
+    "main.js": "/Help-Gears/static/js/main.7efd66d8.chunk.js",
+    "main.js.map": "/Help-Gears/static/js/main.7efd66d8.chunk.js.map",
+    "runtime-main.js": "/Help-Gears/static/js/runtime-main.5e9c239b.js",
+    "runtime-main.js.map": "/Help-Gears/static/js/runtime-main.5e9c239b.js.map",
+    "static/js/2.a9b30054.chunk.js": "/Help-Gears/static/js/2.a9b30054.chunk.js",
+    "static/js/2.a9b30054.chunk.js.map": "/Help-Gears/static/js/2.a9b30054.chunk.js.map",
+    "index.html": "/Help-Gears/index.html",
+    "static/css/main.c81fff8a.chunk.css.map": "/Help-Gears/static/css/main.c81fff8a.chunk.css.map",
+    "static/js/2.a9b30054.chunk.js.LICENSE.txt": "/Help-Gears/static/js/2.a9b30054.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/Help-Gears/static/media/home.491aa3c8.png",
+    "static/media/success.680e20de.gif": "/Help-Gears/static/media/success.680e20de.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e9c239b.js",
+    "static/js/2.a9b30054.chunk.js",
+    "static/css/main.c81fff8a.chunk.css",
+    "static/js/main.7efd66d8.chunk.js"
+  ]
+}
